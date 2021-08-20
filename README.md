@@ -5,7 +5,7 @@
 ## Who am I? 
 
 * 👩‍💻 Data Scientist 🥰.
-* 📊 Business Intelligence.
+* 📊 Data Analyst.
 * 📚 Researcher.
 * 👩‍🎓 Bachelor of Computer Science -UERN.
 * 🎓 Master in Computer Science - PPgCC UERN/UFERSA.
